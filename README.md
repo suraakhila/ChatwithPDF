@@ -57,10 +57,6 @@ streamlit run multipdfragapp.py
 3. Ask a question related to the content of the uploaded PDF files in the text input field and receive a response to your question.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [Streamlit](https://streamlit.io/)
